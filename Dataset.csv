@@ -1,0 +1,117 @@
+SDO,Edad,Civil Status ,Number of Dependents,Posisyon sa Trabaho,Isa ka bang Faculty Club Officer?,Kabuuang Buwanang Sweldo bilang Teacher (Gross Salary),Total Monthly Household Income,Home Ownership Status,Ano-anong mga financial management tools ang inyong ginagamit para sa mga gastusin at pagbu-budget? Piliin ang lahat ng applicable sa'yo.,"Napaabot mo ba ang iyong sweldo hanggang sa katapusan nitong mga nakaraang tatlong buwan (May, June, July)?",May natanggap ka bang Peso Sobre (lalagyan ng pera na may lock at envelopes)?,"Sa nakalipas na anim na buwan, nakapag-save ba kayo mula sa sahod kahit isang beses?","Sa nakalipas na anim na buwan, gaano kadalas kayo nakakapag save? ",Magkano ang iyong naisasave kada buwan?,"May binabayaran ka bang utang mula sa PORMAL (hal. bangko, gobyerno) o IMPORMAL (hal. mula sa kakilala, ibang groupo) na institusyon?","Kung mayroon kang binabayarang utang ngayon, mga kailan mo ito inutang?","Sinisikap kong sundin ang aking budget, kahit may mga hindi inaasahang gastusin.","Kapag may kinakaharap akong problemang pinansiyal, pinagsusumikapan kong makahanap ng solusyon.",Nagsisikap akong palakasin ang aking tiwala sa kakayahan kong i-manage ang aking pera.,Binubudget ko ang aking pera pagkatanggap ng sweldo,May natitira sa aking pera bago dumating ang susunod na sweldo.,Nagtatabi ako ng pera bilang savings kada sweldo,Nagsimula o tinutuloy ko ang pag-iipon ng pondo para sa emergency (emergency fund),Binabayaran ko lahat ng aking bills bago mag-due date,"Kung meron, binabayaran ko ang aking loan payment o credit card bill kada buwan",Nagmemaintain o bumili ako ng insurance,Nagtatabi ako ng pera sa retirement,Kinakausap ko ang aking mga kasama sa pamilya tungkol sa budget at gastusing bahay,Kinakausap ko ang aking mga kaibigan/co-teachers tungkol sa tips at diskarte sa money management,"[FINANCIAL SITUATION]
+1. On a scale that represents your current financial situation (1 being the worst and 10 being the best), indicate where you stand right now:","[BELONGINGNESS]
+2.  How would you describe your sense of belonging within your school community?","[PEER SUPPORT]
+3. Whenever you experience financial difficulties, how often do you approach relatives or friends for support?"
+Laguna/Sta. Cruz,3,2,0,4,2,5,5,1,Wala - Hindi ako nagbubudget ng pera,3,0,1,0,0,1,2,3,4,4,2,1,1,1,2,0,0,0,2,0,7,10,10
+Marikina,3,2,2,3,2,3,3,1,Pen and Paper,1,0,1,2,2,2,2,4,4,4,2,2,2,2,2,2,0,1,2,1,8,10,4
+Marikina,2,2,1,3,0,3,4,1,"Peso Sobre, Pen and Paper",1,1,1,1,2,1,1,4,4,4,2,2,2,2,2,2,2,2,2,2,9,9,8
+Manila,4,2,2,3,0,3,3,2,Wala - Hindi ako nagbubudget ng pera,4,0,2,0,1,1,2,1,3,2,1,1,1,1,2,2,0,1,1,1,5,10,1
+Manila,3,2,2,3,0,3,4,1,Wala - Hindi ako nagbubudget ng pera,1,0,1,3,10,1,3,4,4,4,2,1,2,2,2,2,1,1,2,1,5,9,5
+Las Piñas,2,4,4,1,2,3,2,1,Peso Sobre,3,1,1,1,1,3,1,3,4,3,2,0,1,1,2,0,0,1,1,2,5,8,8
+Malabon,5,2,1,3,1,1,2,1,Pen and Paper,1,0,1,2,2,1,3,3,3,3,2,1,1,1,2,2,1,1,2,1,5,5,5
+Malabon,2,1,1,2,1,3,3,1,Pen and Paper,3,1,1,1,2,3,1,2,4,3,2,0,1,1,2,2,0,0,2,1,5,7,5
+Bacoor,3,2,1,3,0,3,4,5,Pen and Paper,1,1,1,1,1,3,3,3,3,3,1,1,1,1,2,2,1,1,2,1,5,5,5
+Malabon,5,3,0,3,0,3,3,2,NA,1,0,1,3,3,2,2,4,1,4,2,2,2,2,2,2,1,2,1,1,5,8,5
+Malabon,3,2,2,1,0,3,2,2,Pen and Paper,1,0,1,1,2,3,2,3,3,3,2,1,1,1,2,2,1,1,1,1,5,6,7
+Malabon,2,1,1,1,0,3,2,2,"Peso Sobre, Magpasahanggang ngayon ay akin paring ginagamit sa pagba-budget ang ibinigay ninyo sa aking Sun Pera-Aralan budget sobre.",1,1,1,3,2,1,3,4,4,4,2,2,2,2,2,2,0,2,1,1,8,8,3
+Cavite Province,4,2,1,4,1,4,4,1,Wala - Hindi ako nagbubudget ng pera,2,1,2,1,1,3,2,2,3,3,2,1,1,1,1,1,1,1,1,1,8,8,4
+Cavite Province,3,5,1,4,2,4,4,1,Wala - Hindi ako nagbubudget ng pera,1,1,1,3,2,2,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+San Pedro,3,2,1,1,0,2,4,3,Pen and Paper,3,0,2,0,0,1,3,3,3,3,2,1,1,1,2,1,0,1,1,1,7,7,5
+Dasmariñas,3,2,1,4,0,5,5,4,Wala - Hindi ako nagbubudget ng pera,1,1,1,3,2,1,3,3,4,4,2,2,2,2,2,2,1,1,2,1,7,8,5
+Malabon,3,2,1,3,1,3,3,1,Wala - Hindi ako nagbubudget ng pera,3,1,2,0,0,3,3,1,4,4,2,0,0,1,2,2,0,1,1,1,5,7,6
+Sta. Rosa,1,1,2,1,0,3,3,3,"Peso Sobre, Pen and Paper",1,1,1,0,3,1,2,2,3,3,2,1,2,1,2,2,0,1,1,1,3,5,5
+Imus,3,2,0,3,0,3,2,1,Pen and Paper,2,1,1,2,4,1,2,3,4,4,2,2,2,1,2,2,1,1,1,1,7,8,7
+Imus,2,3,2,2,0,3,3,3,Pen and Paper,1,1,1,0,0,3,3,4,4,4,2,1,1,1,2,0,2,1,1,1,7,8,5
+Imus,2,2,1,1,0,3,4,1,Pen and Paper,1,0,1,3,7,1,1,4,4,4,2,2,2,2,2,2,0,2,2,0,5,7,10
+Navotas,4,2,4,1,0,3,2,1,Wala - Hindi ako nagbubudget ng pera,2,0,2,0,0,2,3,3,3,3,2,0,1,1,1,1,1,1,1,1,4,4,4
+Parañaque,3,2,1,2,0,1,1,1,Pen and Paper,3,0,2,3,0,3,3,4,4,4,2,0,0,0,2,2,0,0,0,2,1,10,10
+Parañaque,2,2,1,1,2,2,3,1,Budgeting Apps sa Electronic Devices,3,0,2,3,2,1,2,3,3,3,2,1,1,1,2,2,1,1,0,1,6,5,5
+Valenzuela,4,2,1,5,0,4,5,2,Pen and Paper,3,1,1,3,2,3,1,3,3,3,1,1,1,1,1,2,0,1,2,1,5,6,4
+Parañaque,4,2,1,3,2,3,1,5,Peso Sobre,3,1,1,3,0,1,3,4,4,4,2,1,1,1,2,0,0,0,2,1,5,8,5
+Laguna/Sta. Cruz,2,1,0,7,0,3,4,1,Wala - Hindi ako nagbubudget ng pera,3,1,1,1,2,1,1,4,2,4,2,2,1,1,2,2,0,0,1,1,5,8,10
+Navotas,1,1,3,2,2,3,2,2,Pen and Paper,4,0,2,0,1,1,2,4,3,3,2,0,1,0,1,1,2,2,2,1,9,9,9
+Quezon City,3,1,1,3,1,3,3,1,Peso Sobre,1,1,1,2,8,1,2,4,4,4,2,2,2,2,2,2,2,2,2,1,7,9,4
+Muntinlupa,3,2,2,2,1,3,4,1,"Peso Sobre, Pen and Paper",1,1,1,3,2,1,1,4,4,4,2,2,1,1,2,2,1,1,2,1,8,8,4
+Caloocan,3,2,1,3,2,3,3,4,"Peso Sobre, Pen and Paper",1,1,1,2,2,3,3,3,4,3,1,1,1,1,1,2,0,1,2,1,7,8,5
+Bacoor,2,2,2,3,0,3,2,1,Wala - Hindi ako nagbubudget ng pera,1,0,1,3,6,1,3,4,4,4,2,2,1,2,2,2,0,1,2,1,9,10,2
+Bacoor,2,1,3,1,1,3,1,1,Wala madalas sakto lang,4,0,2,0,0,1,3,4,4,4,1,0,0,1,2,2,1,0,1,1,4,8,8
+Cavite Province,1,2,2,1,0,3,4,1,Pen and Paper,2,1,2,0,0,3,2,4,4,4,2,1,0,0,2,2,0,0,2,1,6,8,10
+Cavite Province,3,2,2,3,0,3,2,1,"Budgeting Apps sa Electronic Devices, Wala - Hindi ako nagbubudget ng pera",1,1,1,2,4,2,3,3,3,3,1,1,1,1,1,1,0,0,2,1,6,7,7
+San Pedro,1,1,1,1,0,3,1,3,Pen and Paper,1,0,2,3,2,1,1,4,4,4,2,2,2,2,2,2,0,0,1,2,5,5,5
+Imus,3,2,1,3,0,3,3,1,Pen and Paper,2,1,2,0,0,1,2,4,4,4,2,1,1,1,2,2,2,0,2,1,6,7,8
+Imus,2,2,1,3,1,3,1,1,Wala - Hindi ako nagbubudget ng pera,4,0,2,0,0,2,3,4,4,4,2,1,1,1,2,2,0,0,1,1,5,5,5
+Parañaque,3,2,2,4,1,4,1,1,Pen and Paper,1,0,2,0,0,3,1,2,2,2,1,1,1,1,1,1,1,1,1,1,4,3,4
+Valenzuela,1,2,0,3,1,3,2,1,"Budgeting Apps sa Electronic Devices, Google Spreadsheet/Microsoft Excel",1,0,2,2,5,3,3,4,4,4,2,1,1,1,1,2,1,0,1,1,5,7,7
+General Trias,4,2,2,3,2,3,2,1,Peso Sobre,1,1,1,2,2,1,3,3,4,4,2,1,2,2,2,0,1,1,2,2,8,10,2
+Valenzuela,2,2,1,1,0,3,3,2,Pen and Paper,4,1,2,0,0,3,3,2,4,3,2,1,1,1,2,2,1,0,1,1,5,5,5
+Valenzuela,1,2,1,7,0,3,5,1,"Peso Sobre, Pen and Paper, Google Spreadsheet/Microsoft Excel",4,1,1,3,6,3,1,4,4,4,2,0,1,1,2,2,0,0,2,1,3,10,3
+Quezon City,2,2,1,1,0,3,3,1,"Peso Sobre, Pen and Paper",1,1,2,2,2,2,1,2,3,3,2,1,1,1,1,1,1,0,0,1,10,10,10
+Valenzuela,5,3,0,4,0,4,4,1,Pen and Paper,2,0,1,2,9,1,3,3,3,3,2,1,2,1,2,2,0,0,2,2,8,9,7
+Bacoor,3,1,2,2,1,3,1,3,Pen and Paper,4,1,2,0,1,1,1,2,2,2,2,2,0,0,2,0,2,0,0,0,4,4,1
+Taguig-Pateros,3,2,2,3,2,3,4,2,Peso Sobre,1,1,1,3,5,3,1,3,4,4,2,2,2,2,2,2,1,2,2,2,8,10,8
+Laguna/Sta. Cruz,1,2,1,1,0,3,3,1,Pen and Paper,1,1,1,3,4,1,1,3,3,3,2,1,1,1,2,0,1,1,2,2,7,9,8
+Navotas,2,2,2,4,0,4,3,2,"Peso Sobre, Pen and Paper",1,1,1,3,7,3,2,4,4,4,2,2,2,2,2,0,0,0,1,2,8,10,8
+San Pedro,3,2,1,3,0,3,2,1,"Peso Sobre, Pen and Paper",1,1,1,3,3,1,1,4,4,4,2,1,2,0,2,2,2,0,1,1,9,10,4
+Malabon,3,2,1,3,0,4,2,2,"Insurance Program, Wala - Hindi ako nagbubudget ng pera",3,0,2,0,0,3,3,2,2,2,2,2,2,2,2,0,2,2,2,2,4,3,3
+Malabon,1,1,2,8,0,3,3,1,Wala - Hindi ako nagbubudget ng pera,3,0,2,0,1,1,2,4,4,3,2,1,1,1,2,2,2,0,2,2,6,5,10
+Imus,3,2,1,4,0,4,5,4,Pen and Paper,1,0,1,3,10,2,2,3,4,4,2,2,2,2,2,0,1,2,2,1,9,8,5
+Malabon,3,2,1,3,2,3,3,1,"Budgeting Apps sa Electronic Devices, Pen and Paper",1,1,1,3,4,1,3,4,4,4,2,2,2,1,2,2,2,2,2,2,7,10,9
+Malabon,2,1,0,3,0,3,3,3,"Google Spreadsheet/Microsoft Excel, Wala - Hindi ako nagbubudget ng pera, Minsan noong nagtravel nagamit ko ang google spreadsheet sa pagbudget pero madalas hindi ako talaga nagbabudget",4,1,2,0,0,3,3,2,3,2,1,0,0,0,1,1,0,0,1,1,3,9,8
+Laguna/Sta. Cruz,1,2,1,1,2,3,3,1,Pen and Paper,3,1,1,3,4,3,2,4,4,4,2,1,2,2,2,2,0,1,2,1,7,7,8
+Malabon,1,1,1,3,2,3,3,2,"Peso Sobre, Pen and Paper",2,1,1,2,3,1,3,3,4,4,2,1,1,2,2,2,1,1,2,2,7,10,8
+Malabon,2,1,1,4,2,4,5,1,"Insurance Program, Manual writing",1,0,1,3,10,1,1,4,4,4,2,2,2,2,2,2,2,0,1,1,9,9,6
+Marikina,4,1,1,2,0,2,2,1,Wala - Hindi ako nagbubudget ng pera,2,0,1,0,0,1,2,3,3,3,1,1,1,0,2,2,0,1,1,1,7,7,7
+Malabon,3,2,2,1,2,3,4,1,Pen and Paper,2,1,1,1,3,1,3,2,3,4,1,1,1,1,2,2,1,0,0,0,5,10,1
+Malabon,1,1,2,1,0,2,2,2,"Budgeting Apps sa Electronic Devices, Pen and Paper",3,0,1,2,1,1,1,4,4,3,1,0,1,0,1,1,2,1,2,2,5,5,5
+Bacoor,2,1,1,1,1,3,3,3,"Peso Sobre, Pen and Paper",1,1,1,3,3,2,1,3,4,4,2,1,2,2,2,2,2,0,2,2,7,7,8
+Bacoor,4,2,1,3,0,3,3,2,Pen and Paper,2,0,2,1,2,1,3,3,3,3,1,0,1,1,2,0,2,1,1,1,6,7,4
+Malabon,3,2,2,3,2,3,4,2,Wala - Hindi ako nagbubudget ng pera,2,1,2,0,0,3,3,4,4,4,2,0,1,2,2,2,0,0,2,2,5,8,10
+Malabon,2,1,1,2,0,3,2,1,Pen and Paper,3,0,2,0,1,2,3,3,3,3,2,1,1,1,1,2,2,1,1,1,5,5,5
+Malabon,3,2,1,1,0,3,5,1,Wala - Hindi ako nagbubudget ng pera,1,0,1,2,7,1,3,4,4,4,2,2,2,2,1,2,1,2,1,0,7,7,5
+Malabon,2,1,1,3,0,3,3,2,"Peso Sobre, Pen and Paper, Google Spreadsheet/Microsoft Excel",1,1,1,1,2,1,3,3,4,4,2,2,1,2,1,1,2,2,2,1,5,7,6
+Malabon,3,1,1,3,1,3,3,1,Pen and Paper,3,0,1,2,4,1,3,3,3,3,1,1,1,1,2,2,2,0,1,1,7,7,8
+Malabon,1,1,2,1,0,3,3,3,Pen and Paper,4,0,1,2,2,1,3,4,4,4,2,1,1,2,2,2,2,1,1,1,4,8,8
+Malabon,3,2,2,3,0,3,3,2,Pen and Paper,3,0,1,3,2,3,1,4,4,2,2,1,2,1,2,0,1,1,1,1,5,9,7
+Malabon,2,2,1,2,0,3,5,1,"Pen and Paper, Insurance Program",4,1,1,1,1,3,3,4,4,4,2,1,2,2,2,2,2,2,2,1,3,8,4
+Malabon,2,1,0,3,2,3,3,3,"Peso Sobre, Pen and Paper",1,0,2,0,0,1,3,2,3,3,1,1,1,1,2,2,1,0,1,1,7,9,6
+Malabon,4,1,0,3,1,3,3,1,Wala - Hindi ako nagbubudget ng pera,1,1,2,0,1,1,3,4,4,4,2,1,1,1,2,2,2,2,1,1,7,8,6
+Laguna/Sta. Cruz,3,2,3,4,2,4,3,1,Pen and Paper,1,1,1,2,4,2,3,3,4,3,2,1,2,2,2,2,1,1,2,2,6,7,7
+Marikina,4,2,2,4,2,4,4,1,Peso Sobre,1,1,1,2,2,3,2,3,4,3,2,1,1,1,1,2,0,0,1,0,5,10,5
+Cavite Province,3,2,1,4,2,4,4,1,Peso Sobre,1,1,1,3,2,1,1,1,4,3,2,1,1,1,1,2,0,1,1,1,7,8,1
+Quezon City,2,1,1,3,0,3,2,2,Pen and Paper,1,0,1,2,2,1,2,4,3,4,2,2,2,2,2,2,1,2,2,2,6,8,6
+Navotas,2,1,1,2,0,5,3,1,Peso Sobre,4,1,1,1,2,1,1,2,2,2,1,1,1,0,2,0,0,0,2,1,2,8,5
+Quezon City,4,2,1,4,2,4,4,1,Peso Sobre,2,1,1,3,10,1,1,3,3,4,2,2,2,2,2,2,0,0,2,2,8,9,2
+Cavite Province,3,2,2,1,2,3,3,3,Pen and Paper,3,1,1,3,2,1,3,2,3,3,1,1,2,2,1,2,0,1,2,1,5,8,9
+Valenzuela,4,3,0,1,0,3,2,1,Pen and Paper,2,0,2,0,0,1,2,3,3,3,2,1,0,0,2,2,0,0,2,2,5,7,7
+Cavite Province,1,1,4,1,0,3,2,2,Pen and Paper,2,1,2,0,0,1,1,4,4,4,2,1,1,2,2,2,0,0,2,0,6,10,2
+Cabuyao,3,2,1,4,2,4,4,1,Pen and Paper,1,1,1,3,3,1,3,4,4,4,2,2,2,2,2,2,1,1,2,1,8,10,6
+Cavite Province,1,1,2,1,0,3,3,2,Pen and Paper,2,1,2,0,1,3,2,3,3,3,2,1,1,1,2,2,0,1,1,1,7,8,5
+Valenzuela,1,2,1,2,0,3,3,1,Google Spreadsheet/Microsoft Excel,3,1,1,2,1,1,2,4,4,3,2,1,1,1,2,2,1,1,2,1,4,5,4
+Laguna/Sta. Cruz,2,2,1,2,0,2,2,1,Pen and Paper,3,1,2,0,1,1,3,3,4,3,1,1,1,0,2,2,0,0,0,0,4,4,2
+Cavite Province,2,2,1,3,2,3,4,1,Peso Sobre,2,1,1,1,2,1,2,2,4,3,2,1,1,1,1,1,1,1,1,1,6,8,6
+Laguna/Sta. Cruz,3,2,1,6,2,3,2,3,wala,2,1,1,2,2,1,3,4,4,4,2,1,1,1,2,2,1,1,2,1,7,10,3
+Quezon City,2,2,1,3,0,3,4,2,"Peso Sobre, Budgeting Apps sa Electronic Devices",4,1,1,3,4,1,1,3,3,3,2,2,2,2,2,2,2,2,2,2,3,5,8
+Quezon City,4,2,1,2,0,3,1,1,Peso Sobre,1,1,1,2,2,1,3,4,4,4,2,2,2,2,2,2,0,0,2,1,6,8,4
+Manila,2,2,1,3,0,3,3,1,Pen and Paper,3,1,2,0,0,3,1,4,4,4,2,1,1,0,2,2,1,0,2,2,7,7,7
+Malabon,3,2,1,3,1,3,4,1,"Pen and Paper, Insurance Program",1,0,1,3,8,1,1,3,4,4,2,1,1,2,2,2,1,1,1,1,4,8,5
+Bacoor,2,1,2,1,0,1,1,2,Pen and Paper,2,1,1,1,2,1,3,3,4,4,2,1,1,1,1,2,0,1,1,1,5,5,5
+Bacoor,2,2,0,3,2,3,3,1,Peso Sobre,1,1,1,3,10,1,3,3,4,4,2,2,2,2,2,2,0,2,2,2,8,8,8
+Caloocan,3,2,2,3,1,3,4,1,"Peso Sobre, Pen and Paper",1,1,1,3,2,1,1,3,3,3,2,2,1,2,1,1,1,1,1,1,8,9,8
+San Juan,2,2,1,2,2,2,2,2,"Budgeting Apps sa Electronic Devices, Pen and Paper, Google Spreadsheet/Microsoft Excel",1,0,1,2,4,1,3,4,4,4,2,2,2,2,2,2,0,2,2,2,7,7,7
+Cavite Province,2,2,4,1,0,3,3,2,Pen and Paper,3,1,1,2,2,3,2,3,4,4,2,1,1,1,2,2,0,0,2,1,5,7,10
+Cavite Province,4,2,1,3,1,3,5,1,Pen and Paper,2,1,2,0,0,1,2,4,4,4,2,1,1,1,2,2,0,1,2,0,8,10,3
+San Pedro,3,2,1,2,1,3,5,1,Wala - Hindi ako nagbubudget ng pera,3,0,2,0,0,1,3,2,4,3,0,1,0,0,2,2,0,0,1,1,7,9,5
+Pasig,3,2,3,5,1,1,2,2,"Peso Sobre, Pen and Paper",2,0,1,2,1,1,1,4,4,4,2,1,1,2,2,2,0,1,2,1,6,8,8
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,1 = 20-29 y.o.,1 = single,0 = 0,1 = Teacher I,0 = Hindi FC Officer,"1 = Below PHP 15,000","1 = Below PHP 15,000",1 = Owned,BUDGET STRETCHING,,PESO SOBRE,SAVINGS BEHAVIOR,SAVINGS FREQUENCY,SAVINGS AMOUNT,DEBT BEHAVIORS,,FINANCIAL SELF-EFFICACY,FINANCIAL SELF-EFFICACY,FINANCIAL SELF-EFFICACY,FINANCIAL MANAGEMENT SKILLS,FINANCIAL MANAGEMENT SKILLS,FINANCIAL MANAGEMENT SKILLS,FINANCIAL MANAGEMENT SKILLS,FINANCIAL MANAGEMENT SKILLS,FINANCIAL MANAGEMENT SKILLS,FINANCIAL MANAGEMENT SKILLS,FINANCIAL MANAGEMENT SKILLS,FINANCIAL MANAGEMENT SKILLS,FINANCIAL MANAGEMENT SKILLS,WELL-BEING,WELL-BEING,WELL-BEING
+,2 = 30-39 y.o.,2 = married,1 = 1-2 dependents,2 = Teacher II,1 = FC Officer dati,"2 = PHP 15,001 to PHP 25,000","2 = PHP 15,001 to PHP 25,000",2 = Rented,,1 = up to 4 weeks,0 = Wala pa,0 = Hindi,0 = Hindi nakakapag-save,0 = N/A,0 = Wala,1 = Sa nakaraang tatlong buwan,Scale: 1 = Hindi Totoo,Scale: 1 = Hindi Totoo,Scale: 1 = Hindi Totoo,0 = Hindi Kailanman,0 = Hindi Kailanman,0 = Hindi Kailanman,0 = Hindi Kailanman,0 = Hindi Kailanman,0 = Hindi Kailanman,0 = Hindi Kailanman,0 = Hindi Kailanman,0 = Hindi Kailanman,0 = Hindi Kailanman,Scale:,Scale:,Scale:
+,3 = 40-49 y.o.,3 = Widowed/Widower,2 = 3-4 dependents,3 = Teacher III,2 = FC Officer ngayon,"3 = PHP 25,001 to PHP 35,000","3 = PHP 25,001 to PHP 35,000",3 = Family,,2 = up to 3 weeks only,1 = Meron na,1 = Oo,1 = 1-2 times,1 = Below P500,1 = Formal institution,2 = Sa nakaraang taon,4 = Totoong Totoo,4 = Totoong Totoo,4 = Totoong Totoo,1 = Minsan,1 = Minsan,1 = Minsan,1 = Minsan,1 = Minsan,1 = Minsan,1 = Minsan,1 = Minsan,1 = Minsan,1 = Minsan,0-4 = Suffering,0-4 = Suffering,0-4 = Suffering
+,4 = 50-59 y.o.,4 - Live In,3 = 5-6 dependents,4 = Master Teacher,,"4 = PHP 35,001 to PHP 50,000","4 = PHP 35,001 to PHP 50,000",4 = Mortgage,,3 = up to 2 weeks only,,,2 = At least once every 2 months,2 = P501 to P1000,2 = Informal,3 = Mahigit isang taon na,,,,2 = Madalas,2 = Madalas,2 = Madalas,2 = Madalas,2 = Madalas,2 = Madalas,2 = Madalas,2 = Madalas,2 = Madalas,2 = Madalas,5-7 = Struggling,5-7 = Struggling,5-7 = Struggling
+,5 = 60 and above,5 = Separated,4 = 7 or more,5 = Head Teacher III,,"5 = PHP 50,001 and above","5 = PHP 50,001 and above",5 = House Loan,,4 = up to 1 week only,,,3 = every payday,3 = P1001 to P1500,"3 = Formal, Informal",,,,,3 = Lagi,3 = Lagi,3 = Lagi,3 = Lagi,3 = Lagi,3 = Lagi,3 = Lagi,3 = Lagi,3 = Lagi,3 = Lagi,8-10 = Thriving,8-10 = Thriving,8-10 = Thriving
+,,,,6 = Principal,,,,,,,,,,4 = P1501 to P2000,,,,,,,,,,,,,,,,,,
+,,,,7 = Administrative Officer II,,,,,,,,,,5 =P2001 to P2500,,,,,,,,,,,,,,,,,,
+,,,,8 = SPET I,,,,,,,,,,6 = P2501 to P3000,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,7 = P3001 to P3500,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,8 = P3501 to P4000,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,9 = P4001 to P4500,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,10 = P4501 to P5000,,,,,,,,,,,,,,,,,,
